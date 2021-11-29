@@ -1,0 +1,10 @@
+SourceGENES,TargetGENES,Interaction,Edges
+GeneZ,GeneZ,1,activation
+GeneZ,GeneX,0.779757133214027,repression
+GeneY,GeneZ,0.00261554637787821,repression
+GeneX,GeneZ,8.78221391048155e-37,repression
+GeneX,GeneX,0,no regulation
+GeneX,GeneY,0,no regulation
+GeneY,GeneX,0,no regulation
+GeneY,GeneY,0,no regulation
+GeneZ,GeneY,0,no regulation

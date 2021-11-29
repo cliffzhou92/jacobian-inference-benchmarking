@@ -1,0 +1,5 @@
+Parent	Type	Child	Weight	Probability	Score
+GeneY	+	GeneX	7.597055	0.000000	0.000000
+GeneZ	+	GeneX	4.501493	0.000000	0.000000
+GeneX	+	GeneY	4.405816	0.000000	0.000000
+GeneX	-	GeneZ	-0.051887	0.999999	-1.000000

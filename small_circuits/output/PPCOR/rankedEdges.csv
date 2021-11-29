@@ -1,0 +1,10 @@
+Gene1	Gene2	EdgeWeight
+GeneX	GeneX	1.0
+GeneY	GeneY	1.0
+GeneZ	GeneZ	1.0
+GeneZ	GeneX	-0.0967994093091902
+GeneX	GeneZ	-0.0967994093091902
+GeneY	GeneX	-0.0925838901541722
+GeneX	GeneY	-0.0925838901541722
+GeneZ	GeneY	0
+GeneY	GeneZ	0
