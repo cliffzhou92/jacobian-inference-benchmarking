@@ -1,0 +1,82 @@
+SourceGENES,TargetGENES,Interaction,Edges
+S,R2,1,activation
+N,R2,0.807128528647219,repression
+S,T,0.792794406635906,repression
+N,T,0.554387470348989,repression
+N,s,0.46071103143352,activation
+S,s,0.394471939327967,activation
+S,R3,0.378984292733865,repression
+N,N,0.364824734599584,activation
+s,R2,0.362127580626291,repression
+s,T,0.345696185856479,activation
+z,Z,0.273288668108525,activation
+N,R3,0.269743725793269,activation
+S,N,0.247012932700354,activation
+S,Z,0.246678956148334,repression
+z,R2,0.231281727377111,activation
+z,R3,0.230914581969344,activation
+s,E,0.163351777359538,activation
+z,T,0.161786143189351,activation
+N,E,0.153544971406737,activation
+s,s,0.149039092972313,activation
+s,N,0.116952163345062,activation
+z,N,0.0354168803949035,activation
+N,Z,0.0140239670396284,repression
+S,S,0.010551002502045,activation
+Z,R3,0.00826277823994869,activation
+Z,s,0.00618116571587876,repression
+Z,R2,0.0052360516677479,activation
+R3,s,0.00440074686570196,activation
+Z,N,0.00396227180987539,repression
+R3,R2,0.00351835148223675,activation
+Z,T,0.00340916802251109,activation
+R2,T,0.00280483169167587,repression
+R3,N,0.00240432833429714,activation
+s,S,0.00230140957840342,activation
+R3,T,0.00225162814388171,activation
+R3,R3,0.00210455266321454,activation
+R2,R2,0.00198818201765563,activation
+R2,N,0.00169856435977397,repression
+Z,Z,0.0013260158360618,activation
+R2,s,0.00108030708228042,repression
+R3,S,0.000460798331605906,repression
+R3,Z,7.97239852605447e-05,activation
+R2,Z,3.44728027587893e-05,activation
+T,T,1.6814579566353e-36,activation
+E,T,1.53053673515655e-36,activation
+E,R2,1.46895265084021e-36,activation
+T,N,1.27374910192479e-36,repression
+T,R2,1.20164775212292e-36,repression
+E,Z,9.95376210495832e-37,repression
+T,Z,9.38878699188652e-37,activation
+T,R3,8.34353971230667e-37,activation
+T,E,3.74181597319459e-37,activation
+E,R3,2.3030530899392e-37,activation
+E,N,1.3751562866208e-37,activation
+T,s,0,no regulation
+T,S,0,no regulation
+T,z,0,no regulation
+s,R3,0,no regulation
+s,z,0,no regulation
+s,Z,0,no regulation
+S,z,0,no regulation
+S,E,0,no regulation
+R3,z,0,no regulation
+R3,E,0,no regulation
+z,s,0,no regulation
+z,S,0,no regulation
+z,z,0,no regulation
+z,E,0,no regulation
+Z,S,0,no regulation
+Z,z,0,no regulation
+Z,E,0,no regulation
+R2,S,0,no regulation
+R2,R3,0,no regulation
+R2,z,0,no regulation
+R2,E,0,no regulation
+E,s,0,no regulation
+E,S,0,no regulation
+E,z,0,no regulation
+E,E,0,no regulation
+N,S,0,no regulation
+N,z,0,no regulation
