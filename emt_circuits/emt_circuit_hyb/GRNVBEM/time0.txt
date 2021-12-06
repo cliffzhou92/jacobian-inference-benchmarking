@@ -1,0 +1,23 @@
+	Command being timed: "./GRNVBEM data/inputs/example/emt_circuit_hyb/GRNVBEM/ExpressionData0.csv data/outputs/example/emt_circuit_hyb/GRNVBEM/outFile0.txt"
+	User time (seconds): 5702.84
+	System time (seconds): 7020.59
+	Percent of CPU this job got: 183%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:55:15
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 517000
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 586
+	Minor (reclaiming a frame) page faults: 1864288
+	Voluntary context switches: 13546018
+	Involuntary context switches: 1009494277
+	Swaps: 0
+	File system inputs: 15880
+	File system outputs: 6320
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
