@@ -1,0 +1,122 @@
+SourceGENES,TargetGENES,Interaction,Edges
+x_g1,x_g10,1.31212323493477,repression
+x_g9,x_g4,1.1953004310656,repression
+x_g4,x_g5,1.14010832881292,repression
+x_g4,x_g4,1,activation
+x_g1,x_g1,0.833343565984304,activation
+x_g1,x_g3,0.832136331557675,repression
+x_g3,x_g9,0.697938772756638,repression
+x_g11,x_g3,0.65417020786769,activation
+x_g4,x_g8,0.512551526606949,repression
+x_g11,x_g7,0.429735993130452,repression
+x_g11,x_g1,0.422744216954394,repression
+x_g11,x_g10,0.407996481920351,activation
+x_g6,x_g9,0.390812925861853,repression
+x_g11,x_g2,0.374365955546273,activation
+x_g9,x_g9,0.350818821386266,activation
+x_g6,x_g4,0.307988167291711,activation
+x_g3,x_g6,0.266091608384189,repression
+x_g6,x_g8,0.249938519915776,repression
+x_g1,x_g11,0.237619403863002,repression
+x_g6,x_g3,0.2306591466457,repression
+x_g3,x_g4,0.132187653947034,repression
+x_g10,x_g11,0.0307334310896264,activation
+x_g6,x_g6,0.0307272507885409,activation
+x_g10,x_g10,0.0162070115829549,activation
+x_g3,x_g11,0.0125268110079763,activation
+x_g11,x_g5,0.0116591749262814,activation
+x_g10,x_g3,0.0105429412535271,repression
+x_g10,x_g1,0.0102063870885797,repression
+x_g9,x_g8,0.0101308929852056,activation
+x_g10,x_g9,8.08173152344433e-05,activation
+x_g5,x_g8,1.19034038833301e-35,repression
+x_g5,x_g5,5.87652832693224e-36,activation
+x_g8,x_g9,5.11647201109529e-36,activation
+x_g2,x_g10,4.87332232475476e-36,repression
+x_g7,x_g9,4.86906474707401e-36,repression
+x_g7,x_g8,3.47014389723878e-36,repression
+x_g8,x_g5,3.25987841251401e-36,repression
+x_g7,x_g3,2.96754649768547e-36,repression
+x_g8,x_g4,2.52741927764979e-36,repression
+x_g2,x_g1,1.93536071091177e-36,activation
+x_g8,x_g6,1.4468216822172e-36,repression
+x_g7,x_g5,9.78997184071551e-37,activation
+x_g2,x_g3,9.15201255799445e-37,repression
+x_g8,x_g8,7.75337534142908e-37,activation
+x_g5,x_g9,6.93456789986191e-37,repression
+x_g5,x_g2,3.65990671275451e-37,repression
+x_g1,x_g2,0,no regulation
+x_g1,x_g4,0,no regulation
+x_g1,x_g5,0,no regulation
+x_g1,x_g6,0,no regulation
+x_g1,x_g7,0,no regulation
+x_g1,x_g8,0,no regulation
+x_g1,x_g9,0,no regulation
+x_g2,x_g2,0,no regulation
+x_g2,x_g4,0,no regulation
+x_g2,x_g5,0,no regulation
+x_g2,x_g6,0,no regulation
+x_g2,x_g7,0,no regulation
+x_g2,x_g8,0,no regulation
+x_g2,x_g9,0,no regulation
+x_g2,x_g11,0,no regulation
+x_g3,x_g1,0,no regulation
+x_g3,x_g2,0,no regulation
+x_g3,x_g3,0,no regulation
+x_g3,x_g5,0,no regulation
+x_g3,x_g7,0,no regulation
+x_g3,x_g8,0,no regulation
+x_g3,x_g10,0,no regulation
+x_g4,x_g1,0,no regulation
+x_g4,x_g2,0,no regulation
+x_g4,x_g3,0,no regulation
+x_g4,x_g6,0,no regulation
+x_g4,x_g7,0,no regulation
+x_g4,x_g9,0,no regulation
+x_g4,x_g10,0,no regulation
+x_g4,x_g11,0,no regulation
+x_g5,x_g1,0,no regulation
+x_g5,x_g3,0,no regulation
+x_g5,x_g4,0,no regulation
+x_g5,x_g6,0,no regulation
+x_g5,x_g7,0,no regulation
+x_g5,x_g10,0,no regulation
+x_g5,x_g11,0,no regulation
+x_g6,x_g1,0,no regulation
+x_g6,x_g2,0,no regulation
+x_g6,x_g5,0,no regulation
+x_g6,x_g7,0,no regulation
+x_g6,x_g10,0,no regulation
+x_g6,x_g11,0,no regulation
+x_g7,x_g1,0,no regulation
+x_g7,x_g2,0,no regulation
+x_g7,x_g4,0,no regulation
+x_g7,x_g6,0,no regulation
+x_g7,x_g7,0,no regulation
+x_g7,x_g10,0,no regulation
+x_g7,x_g11,0,no regulation
+x_g8,x_g1,0,no regulation
+x_g8,x_g2,0,no regulation
+x_g8,x_g3,0,no regulation
+x_g8,x_g7,0,no regulation
+x_g8,x_g10,0,no regulation
+x_g8,x_g11,0,no regulation
+x_g9,x_g1,0,no regulation
+x_g9,x_g2,0,no regulation
+x_g9,x_g3,0,no regulation
+x_g9,x_g5,0,no regulation
+x_g9,x_g6,0,no regulation
+x_g9,x_g7,0,no regulation
+x_g9,x_g10,0,no regulation
+x_g9,x_g11,0,no regulation
+x_g10,x_g2,0,no regulation
+x_g10,x_g4,0,no regulation
+x_g10,x_g5,0,no regulation
+x_g10,x_g6,0,no regulation
+x_g10,x_g7,0,no regulation
+x_g10,x_g8,0,no regulation
+x_g11,x_g4,0,no regulation
+x_g11,x_g6,0,no regulation
+x_g11,x_g8,0,no regulation
+x_g11,x_g9,0,no regulation
+x_g11,x_g11,0,no regulation

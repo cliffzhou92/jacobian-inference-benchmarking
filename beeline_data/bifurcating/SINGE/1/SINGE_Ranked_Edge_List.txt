@@ -1,0 +1,1 @@
+Regulator	Target	SINGE_Score

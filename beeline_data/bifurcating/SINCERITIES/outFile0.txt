@@ -1,0 +1,122 @@
+SourceGENES,TargetGENES,Interaction,Edges
+x_g3,x_g7,1.67110668363575,repression
+x_g3,x_g10,1.41114432146828,repression
+x_g1,x_g7,1,activation
+x_g10,x_g7,0.9341503154463,activation
+x_g1,x_g10,0.810697050303189,activation
+x_g2,x_g10,0.799664330466418,repression
+x_g8,x_g7,0.748035426731911,repression
+x_g4,x_g11,0.716335358384364,repression
+x_g11,x_g7,0.690954892737499,repression
+x_g4,x_g2,0.687758830544046,repression
+x_g4,x_g6,0.639455511007899,activation
+x_g2,x_g7,0.616643169251918,repression
+x_g4,x_g7,0.588842004996609,repression
+x_g8,x_g10,0.587326099881534,activation
+x_g11,x_g10,0.581976630092952,activation
+x_g11,x_g6,0.563775934857636,repression
+x_g4,x_g9,0.550781618620619,activation
+x_g4,x_g5,0.527124345207611,repression
+x_g4,x_g1,0.521338982047545,repression
+x_g7,x_g7,0.510052659982243,activation
+x_g8,x_g11,0.494862841931451,activation
+x_g4,x_g8,0.486919643393564,repression
+x_g8,x_g1,0.452946060293147,activation
+x_g8,x_g2,0.438655893895661,repression
+x_g3,x_g6,0.417308748567457,repression
+x_g8,x_g6,0.403174820285151,repression
+x_g9,x_g6,0.399196328604202,repression
+x_g5,x_g6,0.37541889047773,repression
+x_g4,x_g3,0.361785677792927,repression
+x_g8,x_g3,0.348328633667141,repression
+x_g9,x_g10,0.342571273562717,repression
+x_g9,x_g11,0.328806523639518,repression
+x_g1,x_g3,0.308246034645015,repression
+x_g11,x_g11,0.307220308736739,activation
+x_g9,x_g7,0.294367007465163,activation
+x_g3,x_g3,0.288829226778651,activation
+x_g8,x_g8,0.287710424643664,activation
+x_g10,x_g3,0.277465149262892,repression
+x_g1,x_g1,0.273009223813728,activation
+x_g9,x_g8,0.270285285555758,activation
+x_g10,x_g2,0.268945637719089,repression
+x_g11,x_g1,0.268323154657855,activation
+x_g9,x_g1,0.267823243512195,activation
+x_g2,x_g6,0.26071059878355,repression
+x_g9,x_g2,0.254527238977674,repression
+x_g10,x_g6,0.251866833597807,activation
+x_g10,x_g1,0.25119040890419,activation
+x_g5,x_g2,0.247970500888961,repression
+x_g11,x_g8,0.238818440720087,activation
+x_g7,x_g6,0.235000402804602,repression
+x_g7,x_g10,0.232276502399676,activation
+x_g4,x_g10,0.230976763668662,repression
+x_g5,x_g1,0.230373693427419,repression
+x_g10,x_g11,0.228415997470676,activation
+x_g9,x_g9,0.226437179518307,activation
+x_g9,x_g5,0.219971435160924,repression
+x_g5,x_g8,0.202022936517703,activation
+x_g1,x_g11,0.199678251730313,activation
+x_g1,x_g6,0.198525326832298,repression
+x_g11,x_g3,0.192211037609067,repression
+x_g11,x_g2,0.186356721882781,repression
+x_g3,x_g1,0.181806163190575,repression
+x_g2,x_g11,0.180063864230421,repression
+x_g5,x_g10,0.178380430987184,repression
+x_g1,x_g2,0.175842052397779,activation
+x_g2,x_g1,0.174514198146321,activation
+x_g5,x_g7,0.17152101395053,activation
+x_g9,x_g3,0.156032660650778,repression
+x_g2,x_g3,0.154842740072023,repression
+x_g11,x_g5,0.149788518706924,activation
+x_g5,x_g3,0.128830108915601,repression
+x_g5,x_g5,0.12255313288624,activation
+x_g7,x_g1,0.117281438640738,activation
+x_g7,x_g3,0.111552812234697,repression
+x_g10,x_g10,0.111120598825273,activation
+x_g5,x_g11,0.107459820131385,activation
+x_g9,x_g4,0.106272947367904,activation
+x_g10,x_g8,0.0790164253430221,activation
+x_g3,x_g11,0.0778259338134865,repression
+x_g11,x_g9,0.0651033436667545,repression
+x_g4,x_g4,0.0643308255974463,activation
+x_g2,x_g8,0.0590977017374748,repression
+x_g11,x_g4,0.0453840419948071,repression
+x_g7,x_g2,0.0404005011697086,repression
+x_g1,x_g8,0.0294974053485808,activation
+x_g8,x_g9,0.0293664376310775,activation
+x_g7,x_g11,0.022988004259777,repression
+x_g7,x_g8,0.0216394941767554,repression
+x_g2,x_g2,0.0161516534652375,activation
+x_g6,x_g7,0.0119338175935931,repression
+x_g6,x_g6,0.00871999827260006,activation
+x_g8,x_g5,0.00829556223306577,activation
+x_g6,x_g2,0.00707736187860055,repression
+x_g6,x_g1,0.00538793768134037,repression
+x_g6,x_g3,0.00477362120148322,repression
+x_g6,x_g10,0.00266951002886107,activation
+x_g6,x_g8,0.00229238990475992,repression
+x_g10,x_g9,0.0012292107574688,repression
+x_g6,x_g11,0.00108047497621799,repression
+x_g6,x_g5,0.000363994535534931,repression
+x_g1,x_g4,0,no regulation
+x_g1,x_g5,0,no regulation
+x_g1,x_g9,0,no regulation
+x_g2,x_g4,0,no regulation
+x_g2,x_g5,0,no regulation
+x_g2,x_g9,0,no regulation
+x_g3,x_g2,0,no regulation
+x_g3,x_g4,0,no regulation
+x_g3,x_g5,0,no regulation
+x_g3,x_g8,0,no regulation
+x_g3,x_g9,0,no regulation
+x_g5,x_g4,0,no regulation
+x_g5,x_g9,0,no regulation
+x_g6,x_g4,0,no regulation
+x_g6,x_g9,0,no regulation
+x_g7,x_g4,0,no regulation
+x_g7,x_g5,0,no regulation
+x_g7,x_g9,0,no regulation
+x_g8,x_g4,0,no regulation
+x_g10,x_g4,0,no regulation
+x_g10,x_g5,0,no regulation

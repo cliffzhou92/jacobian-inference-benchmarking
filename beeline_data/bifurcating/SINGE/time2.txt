@@ -1,0 +1,23 @@
+	Command being timed: "/usr/local/SINGE/SINGE.sh /usr/local/MATLAB/MATLAB_Runtime/v94 standalone data/inputs/example/beeline_data/bifurcating/SINGE/ExpressionData2.mat data/inputs/example/beeline_data/bifurcating/SINGE/GeneList2.mat out2 data/inputs/example/beeline_data/bifurcating/SINGE/hyperparameters.txt"
+	User time (seconds): 34.17
+	System time (seconds): 1.88
+	Percent of CPU this job got: 95%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:37.61
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 278436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 382615
+	Voluntary context switches: 10775
+	Involuntary context switches: 3575
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 314080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

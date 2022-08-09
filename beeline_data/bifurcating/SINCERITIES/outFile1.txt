@@ -1,0 +1,122 @@
+SourceGENES,TargetGENES,Interaction,Edges
+x_g8,x_g11,2.03055573342909,repression
+x_g9,x_g8,1.63208526435263,repression
+x_g10,x_g8,1.44273867221733,repression
+x_g9,x_g5,1.02990108193002,repression
+x_g6,x_g8,1,activation
+x_g9,x_g7,0.970187574616956,repression
+x_g6,x_g3,0.968899296089752,repression
+x_g10,x_g7,0.956210894626938,activation
+x_g6,x_g11,0.931202234610223,activation
+x_g6,x_g5,0.878439139035645,repression
+x_g4,x_g8,0.808037059137855,repression
+x_g6,x_g4,0.786698180635287,repression
+x_g8,x_g9,0.755245568399665,repression
+x_g9,x_g3,0.724480841130379,repression
+x_g8,x_g5,0.662983526165227,repression
+x_g10,x_g2,0.657494734533385,repression
+x_g6,x_g7,0.656771260640251,repression
+x_g4,x_g3,0.637213181615154,repression
+x_g8,x_g10,0.596161852514511,repression
+x_g8,x_g3,0.536032322769408,repression
+x_g9,x_g11,0.488003272762106,repression
+x_g10,x_g5,0.403112667238263,repression
+x_g10,x_g3,0.281829913860086,repression
+x_g5,x_g8,0.241149612137187,repression
+x_g9,x_g4,0.238074387163318,repression
+x_g5,x_g11,0.230764351881672,repression
+x_g4,x_g11,0.210355151571214,repression
+x_g5,x_g5,0.203138661792632,activation
+x_g9,x_g2,0.202258775565249,repression
+x_g5,x_g3,0.188307652594581,repression
+x_g4,x_g5,0.17656781684023,repression
+x_g6,x_g6,0.169822410880798,activation
+x_g10,x_g4,0.164844461737095,repression
+x_g5,x_g7,0.136185841985039,repression
+x_g6,x_g9,0.132915222893249,activation
+x_g3,x_g5,0.0552485406766513,repression
+x_g3,x_g11,0.0542510276242445,repression
+x_g8,x_g4,0.0433648246263587,repression
+x_g3,x_g10,0.0376322141949626,repression
+x_g3,x_g9,0.0314253923902228,repression
+x_g3,x_g3,0.0285135192785407,activation
+x_g3,x_g8,0.0245828843088992,repression
+x_g3,x_g2,0.00793649036689849,repression
+x_g3,x_g7,0.00681486403513885,repression
+x_g2,x_g7,1.41271253334626e-35,repression
+x_g2,x_g6,9.84770978130517e-36,activation
+x_g2,x_g11,9.84650276396673e-36,repression
+x_g2,x_g4,8.56357522070534e-36,repression
+x_g1,x_g4,7.55986731204987e-36,repression
+x_g11,x_g8,7.51863782025494e-36,repression
+x_g1,x_g7,7.50751575739264e-36,activation
+x_g1,x_g3,6.1295883685172e-36,repression
+x_g7,x_g11,5.91631852965715e-36,repression
+x_g1,x_g11,5.53459894207515e-36,repression
+x_g11,x_g11,4.65202045363541e-36,activation
+x_g1,x_g6,4.35136896441827e-36,repression
+x_g1,x_g5,3.74259512519135e-36,activation
+x_g11,x_g5,3.73474967998982e-36,repression
+x_g11,x_g3,3.68739255238161e-36,repression
+x_g7,x_g3,3.56527358478793e-36,repression
+x_g7,x_g5,2.81536609868349e-36,repression
+x_g1,x_g8,2.6559470962523e-36,repression
+x_g11,x_g7,2.59738746939136e-36,repression
+x_g2,x_g1,2.11580634515174e-36,repression
+x_g7,x_g9,1.99964185613043e-36,repression
+x_g2,x_g5,9.71300477196671e-37,repression
+x_g7,x_g8,7.89241824620815e-37,repression
+x_g7,x_g10,7.16230481692385e-37,activation
+x_g2,x_g9,7.04825751944141e-37,repression
+x_g11,x_g2,6.38120373879691e-37,repression
+x_g7,x_g4,1.08309872393929e-37,repression
+x_g1,x_g9,2.13687243795868e-38,repression
+x_g1,x_g1,0,no regulation
+x_g1,x_g2,0,no regulation
+x_g1,x_g10,0,no regulation
+x_g2,x_g2,0,no regulation
+x_g2,x_g3,0,no regulation
+x_g2,x_g8,0,no regulation
+x_g2,x_g10,0,no regulation
+x_g3,x_g1,0,no regulation
+x_g3,x_g4,0,no regulation
+x_g3,x_g6,0,no regulation
+x_g4,x_g1,0,no regulation
+x_g4,x_g2,0,no regulation
+x_g4,x_g4,0,no regulation
+x_g4,x_g6,0,no regulation
+x_g4,x_g7,0,no regulation
+x_g4,x_g9,0,no regulation
+x_g4,x_g10,0,no regulation
+x_g5,x_g1,0,no regulation
+x_g5,x_g2,0,no regulation
+x_g5,x_g4,0,no regulation
+x_g5,x_g6,0,no regulation
+x_g5,x_g9,0,no regulation
+x_g5,x_g10,0,no regulation
+x_g6,x_g1,0,no regulation
+x_g6,x_g2,0,no regulation
+x_g6,x_g10,0,no regulation
+x_g7,x_g1,0,no regulation
+x_g7,x_g2,0,no regulation
+x_g7,x_g6,0,no regulation
+x_g7,x_g7,0,no regulation
+x_g8,x_g1,0,no regulation
+x_g8,x_g2,0,no regulation
+x_g8,x_g6,0,no regulation
+x_g8,x_g7,0,no regulation
+x_g8,x_g8,0,no regulation
+x_g9,x_g1,0,no regulation
+x_g9,x_g6,0,no regulation
+x_g9,x_g9,0,no regulation
+x_g9,x_g10,0,no regulation
+x_g10,x_g1,0,no regulation
+x_g10,x_g6,0,no regulation
+x_g10,x_g9,0,no regulation
+x_g10,x_g10,0,no regulation
+x_g10,x_g11,0,no regulation
+x_g11,x_g1,0,no regulation
+x_g11,x_g4,0,no regulation
+x_g11,x_g6,0,no regulation
+x_g11,x_g9,0,no regulation
+x_g11,x_g10,0,no regulation

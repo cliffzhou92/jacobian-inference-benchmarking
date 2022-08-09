@@ -1,0 +1,65 @@
+SourceGENES,TargetGENES,Interaction,Edges
+x_g4,x_g8,1.69325087226359,repression
+x_g2,x_g8,1.49500283662309,repression
+x_g4,x_g4,1,activation
+x_g5,x_g8,0.967785463494643,repression
+x_g8,x_g5,0.9545424710145,repression
+x_g2,x_g4,0.942417351017322,repression
+x_g1,x_g8,0.880915282428732,repression
+x_g5,x_g5,0.748873242857133,activation
+x_g8,x_g8,0.742822634440977,activation
+x_g1,x_g5,0.71007725903405,repression
+x_g1,x_g4,0.576881298723359,repression
+x_g8,x_g1,0.533323466998022,repression
+x_g5,x_g4,0.528744597106627,activation
+x_g1,x_g1,0.340272686161388,activation
+x_g8,x_g4,0.307618806295393,repression
+x_g1,x_g2,0.295060407422813,repression
+x_g5,x_g2,0.245048107631852,repression
+x_g5,x_g1,0.234689808599122,repression
+x_g8,x_g2,0.186149810454382,repression
+x_g1,x_g7,0.146439223169356,repression
+x_g5,x_g7,0.109072471448156,repression
+x_g4,x_g2,0.0911709497704524,repression
+x_g4,x_g7,0.0752076044607423,repression
+x_g8,x_g6,0.0606208655766636,repression
+x_g7,x_g8,0.0542115322633576,repression
+x_g8,x_g7,0.0470381049130245,repression
+x_g4,x_g5,0.0272821236726093,activation
+x_g7,x_g4,0.0245722794977442,repression
+x_g3,x_g3,5.32276431072763e-36,activation
+x_g6,x_g2,4.65660814004963e-36,repression
+x_g6,x_g4,4.24727516205538e-36,repression
+x_g6,x_g5,2.97664191712341e-36,repression
+x_g6,x_g7,7.27638203344015e-37,activation
+x_g2,x_g2,0,no regulation
+x_g2,x_g3,0,no regulation
+x_g2,x_g1,0,no regulation
+x_g2,x_g5,0,no regulation
+x_g2,x_g6,0,no regulation
+x_g2,x_g7,0,no regulation
+x_g3,x_g2,0,no regulation
+x_g3,x_g4,0,no regulation
+x_g3,x_g1,0,no regulation
+x_g3,x_g5,0,no regulation
+x_g3,x_g6,0,no regulation
+x_g3,x_g7,0,no regulation
+x_g3,x_g8,0,no regulation
+x_g4,x_g3,0,no regulation
+x_g4,x_g1,0,no regulation
+x_g4,x_g6,0,no regulation
+x_g1,x_g3,0,no regulation
+x_g1,x_g6,0,no regulation
+x_g5,x_g3,0,no regulation
+x_g5,x_g6,0,no regulation
+x_g6,x_g3,0,no regulation
+x_g6,x_g1,0,no regulation
+x_g6,x_g6,0,no regulation
+x_g6,x_g8,0,no regulation
+x_g7,x_g2,0,no regulation
+x_g7,x_g3,0,no regulation
+x_g7,x_g1,0,no regulation
+x_g7,x_g5,0,no regulation
+x_g7,x_g6,0,no regulation
+x_g7,x_g7,0,no regulation
+x_g8,x_g3,0,no regulation
