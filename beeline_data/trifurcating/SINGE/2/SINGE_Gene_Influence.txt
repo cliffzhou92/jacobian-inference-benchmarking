@@ -1,9 +1,0 @@
-Gene_Name	influence
-x_g2	0
-x_g3	0
-x_g4	0
-x_g1	0
-x_g5	0
-x_g6	0
-x_g7	0
-x_g8	0

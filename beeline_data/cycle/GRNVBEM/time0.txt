@@ -1,18 +1,18 @@
 	Command being timed: "./GRNVBEM data/inputs/example/beeline_data/cycle/GRNVBEM/ExpressionData0.csv data/outputs/example/beeline_data/cycle/GRNVBEM/outFile0.txt"
-	User time (seconds): 8.16
-	System time (seconds): 3.58
-	Percent of CPU this job got: 171%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.85
+	User time (seconds): 8.88
+	System time (seconds): 3.97
+	Percent of CPU this job got: 180%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:07.11
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 464324
+	Maximum resident set size (kbytes): 465052
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 8
-	Minor (reclaiming a frame) page faults: 109344
-	Voluntary context switches: 3459
-	Involuntary context switches: 260532
+	Minor (reclaiming a frame) page faults: 108645
+	Voluntary context switches: 3893
+	Involuntary context switches: 359177
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 800

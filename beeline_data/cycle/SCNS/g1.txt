@@ -1,0 +1,4 @@
+9 / 9	g1
+8 / 9	g6
+8 / 9	And(g1, Not g5)
+8 / 9	And(g6, Not g5)

@@ -1,0 +1,65 @@
+SourceGENES,TargetGENES,Interaction,Edges
+g2,g6,11.6324772131078,repression
+g2,g7,11.2811214642026,repression
+g2,g8,6.5476934646434,repression
+g2,g3,4.18214766138999,repression
+g5,g7,1.76336043196683,repression
+g2,g1,1.35590834764815,repression
+g2,g4,1.16655728426778,repression
+g2,g2,1,activation
+g5,g6,0.958228568856802,repression
+g5,g8,0.934387042986423,repression
+g5,g3,0.318468455137157,repression
+g5,g4,0.042997546095132,repression
+g3,g7,1.15863240351193e-34,repression
+g1,g7,1.00310232947211e-34,activation
+g3,g6,9.82240310599529e-35,repression
+g1,g6,6.89489248554323e-35,repression
+g1,g8,6.16700666860974e-35,repression
+g3,g3,3.81215588262888e-35,activation
+g4,g7,3.688185833226e-35,activation
+g6,g7,3.32613689011135e-35,activation
+g8,g7,3.06863066576141e-35,activation
+g1,g2,3.00428175142537e-35,repression
+g4,g4,2.9458595022696e-35,activation
+g3,g2,2.74621411923509e-35,repression
+g3,g1,2.48603611215399e-35,repression
+g6,g6,2.37654096332612e-35,activation
+g3,g4,2.07454999861138e-35,activation
+g7,g6,1.88272475837622e-35,activation
+g1,g3,1.85359109299691e-35,repression
+g1,g4,1.81610146473518e-35,activation
+g8,g6,1.60532401848292e-35,activation
+g7,g4,1.57691893092501e-35,activation
+g6,g3,1.45151118031426e-35,repression
+g1,g1,5.3668655799896e-36,activation
+g4,g8,8.37449578558946e-37,activation
+g6,g4,8.23785862958387e-37,repression
+g6,g8,3.50781426638742e-37,activation
+g2,g5,0,no regulation
+g3,g5,0,no regulation
+g3,g8,0,no regulation
+g4,g2,0,no regulation
+g4,g3,0,no regulation
+g4,g1,0,no regulation
+g4,g5,0,no regulation
+g4,g6,0,no regulation
+g1,g5,0,no regulation
+g5,g2,0,no regulation
+g5,g1,0,no regulation
+g5,g5,0,no regulation
+g6,g2,0,no regulation
+g6,g1,0,no regulation
+g6,g5,0,no regulation
+g7,g2,0,no regulation
+g7,g3,0,no regulation
+g7,g1,0,no regulation
+g7,g5,0,no regulation
+g7,g7,0,no regulation
+g7,g8,0,no regulation
+g8,g2,0,no regulation
+g8,g3,0,no regulation
+g8,g4,0,no regulation
+g8,g1,0,no regulation
+g8,g5,0,no regulation
+g8,g8,0,no regulation

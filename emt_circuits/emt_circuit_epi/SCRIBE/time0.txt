@@ -1,0 +1,23 @@
+	Command being timed: "Rscript runScribe.R -e data/inputs/example/emt_circuit_epi/SCRIBE/ExpressionData0.csv -c data/inputs/example/emt_circuit_epi/SCRIBE/CellData0.csv -g data/inputs/example/emt_circuit_epi/SCRIBE/GeneData.csv -o data/outputs/example/emt_circuit_epi/SCRIBE/ -d 5 -l 0 -m ucRDI -x uninormal --outFile outFile0.csv -i"
+	User time (seconds): 38.63
+	System time (seconds): 0.61
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:38.93
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 408208
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 389
+	Minor (reclaiming a frame) page faults: 100036
+	Voluntary context switches: 1296
+	Involuntary context switches: 2025
+	Swaps: 0
+	File system inputs: 121504
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

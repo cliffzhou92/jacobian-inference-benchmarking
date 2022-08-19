@@ -1,37 +1,37 @@
 SourceGENES,TargetGENES,Interaction,Edges
-x_g4,x_g5,14.5842294426479,repression
-x_g2,x_g5,13.6046565722871,repression
-x_g6,x_g3,3.94510572560842,repression
-x_g3,x_g5,3.36295897833514,repression
-x_g3,x_g4,2.273807601539,repression
-x_g6,x_g5,2.21269396927444,repression
-x_g6,x_g1,2.00037698570946,repression
-x_g3,x_g2,1.53932275891155,repression
-x_g4,x_g4,1,activation
-x_g2,x_g4,0.876712230382817,repression
-x_g5,x_g5,0.784122091159859,activation
-x_g3,x_g3,0.774132797226024,activation
-x_g3,x_g1,0.770596518136658,repression
-x_g1,x_g6,0.652438900021072,repression
-x_g5,x_g1,0.535316776610769,repression
-x_g6,x_g4,0.527201890080882,repression
-x_g5,x_g4,0.455473990625038,repression
-x_g5,x_g2,0.388856461194429,repression
-x_g1,x_g1,0.29715029418138,activation
-x_g1,x_g2,0.283430678757119,repression
-x_g1,x_g5,0.272329813579174,repression
-x_g1,x_g4,0.192155009462436,repression
-x_g1,x_g3,0.179932815514275,repression
-x_g2,x_g1,0,no regulation
-x_g2,x_g2,0,no regulation
-x_g2,x_g3,0,no regulation
-x_g2,x_g6,0,no regulation
-x_g3,x_g6,0,no regulation
-x_g4,x_g1,0,no regulation
-x_g4,x_g2,0,no regulation
-x_g4,x_g3,0,no regulation
-x_g4,x_g6,0,no regulation
-x_g5,x_g3,0,no regulation
-x_g5,x_g6,0,no regulation
-x_g6,x_g2,0,no regulation
-x_g6,x_g6,0,no regulation
+g4,g5,14.5842294426479,repression
+g2,g5,13.6046565722871,repression
+g6,g3,3.94510572560842,repression
+g3,g5,3.36295897833514,repression
+g3,g4,2.273807601539,repression
+g6,g5,2.21269396927444,repression
+g6,g1,2.00037698570946,repression
+g3,g2,1.53932275891155,repression
+g4,g4,1,activation
+g2,g4,0.876712230382817,repression
+g5,g5,0.784122091159859,activation
+g3,g3,0.774132797226024,activation
+g3,g1,0.770596518136658,repression
+g1,g6,0.652438900021072,repression
+g5,g1,0.535316776610769,repression
+g6,g4,0.527201890080882,repression
+g5,g4,0.455473990625038,repression
+g5,g2,0.388856461194429,repression
+g1,g1,0.29715029418138,activation
+g1,g2,0.283430678757119,repression
+g1,g5,0.272329813579174,repression
+g1,g4,0.192155009462436,repression
+g1,g3,0.179932815514275,repression
+g2,g1,0,no regulation
+g2,g2,0,no regulation
+g2,g3,0,no regulation
+g2,g6,0,no regulation
+g3,g6,0,no regulation
+g4,g1,0,no regulation
+g4,g2,0,no regulation
+g4,g3,0,no regulation
+g4,g6,0,no regulation
+g5,g3,0,no regulation
+g5,g6,0,no regulation
+g6,g2,0,no regulation
+g6,g6,0,no regulation

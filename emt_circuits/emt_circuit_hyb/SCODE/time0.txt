@@ -1,20 +1,20 @@
 	Command being timed: "ruby run_R.rb data/inputs/example/emt_circuit_hyb/SCODE/ExpressionData0.csv data/inputs/example/emt_circuit_hyb/SCODE/PseudoTime0.csv data/outputs/example/emt_circuit_hyb/SCODE/0 9 10 10100 1000 6"
-	User time (seconds): 86.76
-	System time (seconds): 2.42
+	User time (seconds): 17.88
+	System time (seconds): 0.53
 	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:29.58
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:18.49
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 154244
+	Maximum resident set size (kbytes): 154824
 	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 23
-	Minor (reclaiming a frame) page faults: 293283
-	Voluntary context switches: 253
-	Involuntary context switches: 1498
+	Major (requiring I/O) page faults: 52
+	Minor (reclaiming a frame) page faults: 293248
+	Voluntary context switches: 400
+	Involuntary context switches: 779
 	Swaps: 0
-	File system inputs: 2480
+	File system inputs: 10488
 	File system outputs: 0
 	Socket messages sent: 0
 	Socket messages received: 0

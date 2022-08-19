@@ -1,21 +1,21 @@
 	Command being timed: "/usr/local/SINGE/SINGE.sh /usr/local/MATLAB/MATLAB_Runtime/v94 standalone data/inputs/example/emt_circuit_mes/SINGE/ExpressionData0.mat data/inputs/example/emt_circuit_mes/SINGE/GeneList0.mat out0 data/inputs/example/emt_circuit_mes/SINGE/hyperparameters.txt"
-	User time (seconds): 14686.97
-	System time (seconds): 2295.04
-	Percent of CPU this job got: 99%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:43:31
+	User time (seconds): 3374.42
+	System time (seconds): 300.89
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:01:14
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 2852164
+	Maximum resident set size (kbytes): 3056168
 	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 70255
-	Minor (reclaiming a frame) page faults: 203521673
-	Voluntary context switches: 101371
-	Involuntary context switches: 60140
+	Major (requiring I/O) page faults: 2740
+	Minor (reclaiming a frame) page faults: 203434538
+	Voluntary context switches: 17742
+	Involuntary context switches: 17708
 	Swaps: 0
-	File system inputs: 3751296
-	File system outputs: 47869088
+	File system inputs: 447864
+	File system outputs: 47867144
 	Socket messages sent: 0
 	Socket messages received: 0
 	Signals delivered: 0

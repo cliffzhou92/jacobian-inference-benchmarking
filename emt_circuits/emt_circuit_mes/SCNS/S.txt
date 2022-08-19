@@ -1,0 +1,24 @@
+0 / 0	z
+0 / 0	And(R2, Not T)
+0 / 0	And(E, Not T)
+0 / 0	And(S, Not T)
+0 / 0	And(R3, Not T)
+0 / 0	And(Z, Not T)
+0 / 0	And(z, Not T)
+0 / 0	And(N, Not T)
+0 / 0	And(R2, Not N)
+0 / 0	And(R2, Not z)
+0 / 0	And(R3, Not z)
+0 / 0	And(R3, Not N)
+0 / 0	And(Z, Not z)
+0 / 0	And(Z, Not N)
+0 / 0	And(E, Not z)
+0 / 0	And(S, Not z)
+0 / 0	And(E, Not N)
+0 / 0	And(S, Not N)
+0 / 0	Z
+0 / 0	R3
+0 / 0	R2
+0 / 0	N
+0 / 0	E
+0 / 0	S

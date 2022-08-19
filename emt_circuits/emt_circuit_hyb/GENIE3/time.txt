@@ -1,22 +1,21 @@
-Command terminated by signal 9
 	Command being timed: "python runArboreto.py --algo=GENIE3 --inFile=data/inputs/example/emt_circuit_hyb/GENIE3/ExpressionData.csv --outFile=data/outputs/example/emt_circuit_hyb/GENIE3/outFile.txt"
-	User time (seconds): 1241.54
-	System time (seconds): 486.08
-	Percent of CPU this job got: 27%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:45:54
+	User time (seconds): 198.29
+	System time (seconds): 4.85
+	Percent of CPU this job got: 396%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:51.19
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 6422660
+	Maximum resident set size (kbytes): 6432276
 	Average resident set size (kbytes): 0
-	Major (requiring I/O) page faults: 29910
-	Minor (reclaiming a frame) page faults: 1720775
-	Voluntary context switches: 1187528
-	Involuntary context switches: 154931
+	Major (requiring I/O) page faults: 1032
+	Minor (reclaiming a frame) page faults: 1719159
+	Voluntary context switches: 117950
+	Involuntary context switches: 19358
 	Swaps: 0
-	File system inputs: 1551176
-	File system outputs: 88
+	File system inputs: 263416
+	File system outputs: 4696
 	Socket messages sent: 0
 	Socket messages received: 0
 	Signals delivered: 0

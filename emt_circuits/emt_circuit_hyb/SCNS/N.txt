@@ -1,0 +1,4 @@
+0 / 0	Or(E, S)
+0 / 0	And(Or(E, S), Not And(Z, s))
+0 / 0	And(Or(E, S), Not And(R3, s))
+0 / 0	And(Or(E, S), Not And(R3, T))

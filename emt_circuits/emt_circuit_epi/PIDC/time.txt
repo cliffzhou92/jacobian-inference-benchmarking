@@ -1,18 +1,18 @@
 	Command being timed: "julia runPIDC.jl data/inputs/example/emt_circuit_epi/PIDC/ExpressionData.csv data/outputs/example/emt_circuit_epi/PIDC/outFile.txt"
-	User time (seconds): 116.17
-	System time (seconds): 5.04
-	Percent of CPU this job got: 100%
-	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:00.89
+	User time (seconds): 23.07
+	System time (seconds): 0.98
+	Percent of CPU this job got: 102%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:23.51
 	Average shared text size (kbytes): 0
 	Average unshared data size (kbytes): 0
 	Average stack size (kbytes): 0
 	Average total size (kbytes): 0
-	Maximum resident set size (kbytes): 464028
+	Maximum resident set size (kbytes): 464488
 	Average resident set size (kbytes): 0
 	Major (requiring I/O) page faults: 1
-	Minor (reclaiming a frame) page faults: 472694
-	Voluntary context switches: 103
-	Involuntary context switches: 76494
+	Minor (reclaiming a frame) page faults: 339344
+	Voluntary context switches: 132
+	Involuntary context switches: 430
 	Swaps: 0
 	File system inputs: 0
 	File system outputs: 19008
