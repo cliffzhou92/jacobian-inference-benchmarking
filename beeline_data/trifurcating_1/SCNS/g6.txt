@@ -1,0 +1,5 @@
+31 / 33	And(g6, Not And(g1, g2))
+31 / 33	And(g6, Not And(g2, g8))
+33 / 33	g6
+32 / 33	And(g6, Not And(g1, g8))
+31 / 33	And(g6, Not And(g1, g3))

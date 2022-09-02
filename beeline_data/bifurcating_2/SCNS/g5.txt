@@ -1,0 +1,3 @@
+164 / 164	g5
+158 / 164	And(g5, Not And(g2, g9))
+155 / 164	And(g5, Not And(g3, g9))

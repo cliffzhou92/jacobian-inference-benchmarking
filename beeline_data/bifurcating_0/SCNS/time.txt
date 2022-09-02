@@ -1,0 +1,23 @@
+	Command being timed: "mono SynthesisEngine.exe data/inputs/example/beeline_data/bifurcating_0/SCNS/ExpressionData.csv data/inputs/example/beeline_data/bifurcating_0/SCNS/Edges.csv data/inputs/example/beeline_data/bifurcating_0/SCNS/Parameters.csv data/inputs/example/beeline_data/bifurcating_0/SCNS/initial.txt data/inputs/example/beeline_data/bifurcating_0/SCNS/target.txt data/outputs/example/beeline_data/bifurcating_0/SCNS/"
+	User time (seconds): 1203.09
+	System time (seconds): 0.88
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 20:02.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 240700
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 192409
+	Voluntary context switches: 20529
+	Involuntary context switches: 8797
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

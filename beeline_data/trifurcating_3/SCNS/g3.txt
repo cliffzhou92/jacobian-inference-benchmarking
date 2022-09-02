@@ -1,0 +1,13 @@
+60 / 60	And(g3, Not And(g4, g7))
+57 / 60	And(Or(g3, g7), Not And(g4, g7))
+57 / 60	And(g3, Not And(g4, g8))
+57 / 60	And(g3, Not g4)
+57 / 60	And(Or(g1, g3), Not And(g1, g4))
+57 / 60	And(Or(g3, g4), Not g4)
+57 / 60	And(Or(g2, g3), Not g4)
+58 / 60	And(Or(g2, g3), Not And(g2, g4))
+59 / 60	And(g3, Not And(g4, g5))
+59 / 60	And(g3, Not And(g4, g6))
+58 / 60	And(g3, Not And(g2, g4))
+59 / 60	And(g3, Not And(g1, g4))
+60 / 60	g3

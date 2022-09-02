@@ -1,0 +1,2 @@
+49 / 52	And(g3, Not g8)
+49 / 52	And(g2, Not g8)

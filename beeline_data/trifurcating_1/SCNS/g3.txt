@@ -1,0 +1,11 @@
+47 / 47	g3
+44 / 47	And(g3, Not And(g1, g5))
+44 / 47	And(g3, Not And(g1, g2))
+44 / 47	And(g3, Not And(g1, g6))
+45 / 47	And(g3, Not And(g1, g4))
+44 / 47	And(g3, Not And(g2, g8))
+46 / 47	And(g3, Not And(g1, g8))
+45 / 47	And(g3, Not And(g4, g8))
+46 / 47	And(g3, Not And(g5, g8))
+45 / 47	And(g3, Not And(g7, g8))
+44 / 47	And(g3, Not And(g1, g7))

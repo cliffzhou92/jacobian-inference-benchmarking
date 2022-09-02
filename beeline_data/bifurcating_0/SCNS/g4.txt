@@ -1,0 +1,3 @@
+300 / 316	And(g4, Not And(g11, g5))
+304 / 316	And(g4, Not And(g1, g3))
+316 / 316	g4

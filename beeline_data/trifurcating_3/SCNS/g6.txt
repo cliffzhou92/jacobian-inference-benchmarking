@@ -1,0 +1,5 @@
+32 / 34	And(g6, Not And(g2, g8))
+33 / 34	And(g6, Not And(g2, g3))
+32 / 34	And(g6, Not And(g1, g2))
+32 / 34	And(g6, Not And(g2, g5))
+34 / 34	g6
