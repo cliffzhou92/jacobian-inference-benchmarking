@@ -1,0 +1,13 @@
+Gene1,Gene2,Type
+T,s,+
+s,S,+
+R2,S,-
+S,R2,-
+S,E,-
+S,z,+
+S,N,+
+z,Z,+
+R3,Z,-
+Z,R3,-
+Z,E,-
+Z,N,+

@@ -1,0 +1,6 @@
+ --lambda 0.01 --dT 15 --num-lags 5 --kernel-width 0.5 --prob-zero-removal 0 --prob-remove-samples 0.0 --family gaussian --replicate 0 --ID 0
+--lambda 0.01 --dT 15 --num-lags 5 --kernel-width 0.5 --prob-zero-removal 0 --prob-remove-samples 0.0 --family gaussian --replicate 1 --ID 1
+--lambda 0.01 --dT 15 --num-lags 5 --kernel-width 0.5 --prob-zero-removal 0 --prob-remove-samples 0.0 --family gaussian --replicate 2 --ID 2
+--lambda 0.01 --dT 15 --num-lags 5 --kernel-width 0.5 --prob-zero-removal 0 --prob-remove-samples 0.0 --family gaussian --replicate 3 --ID 3
+--lambda 0.01 --dT 15 --num-lags 5 --kernel-width 0.5 --prob-zero-removal 0 --prob-remove-samples 0.0 --family gaussian --replicate 4 --ID 4
+--lambda 0.01 --dT 15 --num-lags 5 --kernel-width 0.5 --prob-zero-removal 0 --prob-remove-samples 0.0 --family gaussian --replicate 5 --ID 5 

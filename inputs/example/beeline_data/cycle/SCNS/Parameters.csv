@@ -1,0 +1,7 @@
+Gene,MaxActivators,MaxRepressors,Threshold
+g1, 1, 1, 95
+g2, 0, 0, 95
+g3, 1, 1, 95
+g4, 1, 1, 95
+g5, 0, 0, 95
+g6, 0, 0, 95
