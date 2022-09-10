@@ -137,7 +137,7 @@ input_settings:
 
         - name: "spliceJAC"
           params:
-              should_run: [True]
+              should_run: [False]
 
 # Output Settings: initialize base output folder names
 output_settings:
