@@ -1,0 +1,30 @@
+# Config file used to generate inputs for Beeline using Boolean models
+global_settings:
+  model_dir: "data"
+  output_dir: "Curated"
+  do_simulations: True
+  do_post_processing: True
+  modeltype: 'heaviside'
+
+jobs:
+  - name: "trifurcating"
+    model_definition: "dyn-trifurcating.txt"
+    model_initial_conditions: "dyn-trifurcating_ics.txt"
+    strengths: "dyn-trifurcating_strengths.txt" 
+    simulation_time: 8
+    num_cells: 2000
+    do_parallel: False
+    sample_cells: True
+#    nClusters: 2
+
+post_processing:
+  Dropouts:
+    - dropout: False
+#      nCells: 200
+
+  DimRed:
+    - perplexity: 100
+
+
+  
+
